@@ -1,0 +1,12 @@
+[submodule "widgets/fontsize"]
+	path = widgets/fontsize
+	url = https://github.com/ponlawat-w/moodle-accessibility_fontsize
+[submodule "widgets/fontface"]
+	path = widgets/fontface
+	url = https://github.com/ponlawat-w/moodle-accessibility_fontface.git
+[submodule "widgets/textcolour"]
+	path = widgets/textcolour
+	url = https://github.com/ponlawat-w/moodle-accessibility_textcolour.git
+[submodule "widgets/backgroundcolour"]
+	path = widgets/backgroundcolour
+	url = https://github.com/ponlawat-w/moodle-accessibility_backgroundcolour.git
